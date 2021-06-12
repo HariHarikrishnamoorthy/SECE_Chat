@@ -1,4 +1,4 @@
-![Banner](https://github.com/VishalDhanasek/SECE-Chat/blob/main/SECECHAT.png)
+![Banner](https://github.com/VishalDhanasek/SECE_Chat/blob/master/SECECHAT.png)
 
 
 # SECE Chat 
