@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">755888701246-fvhacpt9mdjs70hr9i3kerg6e6uob1g9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">755888701246</string>
+    <string name="google_api_key" translatable="false">AIzaSyDsd2nIHwzOW6QsToL4hTrx_Tds98TIuGM</string>
+    <string name="google_app_id" translatable="false">1:755888701246:android:2df44a5c873360a511766f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsd2nIHwzOW6QsToL4hTrx_Tds98TIuGM</string>
+    <string name="google_storage_bucket" translatable="false">sece-chat.appspot.com</string>
+    <string name="project_id" translatable="false">sece-chat</string>
+</resources>
