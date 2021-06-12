@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755888701246",
+    "project_id": "sece-chat",
+    "storage_bucket": "sece-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755888701246:android:2df44a5c873360a511766f",
+        "android_client_info": {
+          "package_name": "co.innovationgeeks.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755888701246-fvhacpt9mdjs70hr9i3kerg6e6uob1g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsd2nIHwzOW6QsToL4hTrx_Tds98TIuGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755888701246-fvhacpt9mdjs70hr9i3kerg6e6uob1g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
